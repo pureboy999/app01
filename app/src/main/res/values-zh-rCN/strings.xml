@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">你好</string>
+    <string name="text1">中国</string>
+    <string name="text2">早上好</string>
+    <string name="hp">生日快乐</string>
+</resources>
