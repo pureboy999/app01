@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         editInput = (EditText) findViewById(R.id.et_input);
         btnC2F = (Button)findViewById(R.id.c_to_f);
         btnF2C = (Button)findViewById(R.id.f_to_c);
-        //add sth
+        //add somethin
         //设置按钮点击监听
         btnC2F.setOnClickListener(this);
         btnF2C.setOnClickListener(this);
